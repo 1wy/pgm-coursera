@@ -1,0 +1,1 @@
+ConstructToyNetwork(1, 0.1)
